@@ -1,0 +1,101 @@
+body{
+    background-color: #E9EDEE;
+}
+.logo1{
+    text-align: end;
+    width: 100px;
+    
+    background-color: #222F3F ;
+    padding-left: auto;
+}
+.imm{
+    background-color: #222F3F;
+}
+section{
+    text-align: center;
+    font-size: x-large;
+}
+.menu{
+    background-color:#364759;
+}
+ul{
+    list-style: none;
+    
+    padding: 0;
+}
+li{
+    display: inline-block;
+    padding: 5px;
+    color: white;
+    font-size: 10px;
+}
+.Shop{
+    text-align: center;
+    background-color: #F56600;
+    margin: 20px;
+    margin-left: 20px;
+    font-size: 13px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #E9EDEE;
+}
+section{
+    background-image: url(./assets/images/bg-image.png) ;
+    background-repeat: repeat;
+    padding: 75px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+section p{
+    color: white;
+    padding: 5px;
+}
+.primoblocco{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+   
+    
+}
+main {
+        width: auto;
+        margin-right: 30px;
+        text-align: center;
+        background-color: white;
+        padding-bottom: 20px;
+        margin-bottom: 20px;
+        margin-left: 30px;
+    }
+.primoblocco{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+
+}
+.sfondo1 {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    padding-left: 10px;
+
+}
+.sfondo1 img{ 
+    width: 80%;
+    height: 300px; 
+    object-fit: cover; 
+    border-radius: 10px;
+}
+aside{
+    margin-right: 30px;
+    padding-left: 30px;
+    width: auto;
+}
+.sfondo2{
+    width: auto;
+
+    
+
+}
