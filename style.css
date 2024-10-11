@@ -2,7 +2,6 @@ body{
     background-color: #E9EDEE;
 }
 .logo1{
-    text-align: end;
     width: 100px;
     
     background-color: #222F3F ;
@@ -94,8 +93,23 @@ aside{
     width: auto;
 }
 .sfondo2{
-    width: auto;
-
-    
-
+    width: 1020px;
+}
+.contenitore{
+    text-align: center;
+}
+.sfondo3{
+    width: 1020px;
+}
+.contenitore2{
+    text-align: center;
+}
+footer{
+    background-color: #222F3F;
+}
+.immaginelog{
+    height: 50px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-left: 470px;
 }
